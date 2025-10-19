@@ -1046,16 +1046,3 @@ Events and actions stop associating, preventing correct scheduling.
 
 The bug doesn't do any harm, but visually confusing.
 Tooltips should not present any 'undefined'.
-
----
-### Version 22.3.12:
-🌱 **New feature: work hours**
-
-Now you can record working hours of any equipment, for example: treadmill
-
-Steps:
-- Add new item
-- Give it a name, example Treadmill Pro 2000
-- Enable 'work units', new dropdown box will appear
-- Select 'hours'
-- Now you can keep track of work hours of the treadmill
