@@ -18,8 +18,8 @@ bad things will happen. If you are lucky, a couple valves might be broken, if un
 when the all important belt needed to be replaced. Not long after, I realized there were other things that needed timely replacement — or I’d risk finding myself 
 walking down the road.
 
-Cars, as important as they are, aren’t the only thing to keep an eye on. I have UPS and it needs to have its battery replaced every 5-6 years. Once again in the best
-case the UPS doesn’t function properly, in the worst, battery could burst into fire. What about air filter in HVAC system, I sure forgot about it a few times and I never 
+Cars, as important as they are, aren’t the only thing to keep an eye on. I have UPS, and it needs to have its battery replaced every 5-6 years. Once again in the best
+case the UPS doesn't function properly, in the worst, battery could burst into fire. What about air filter in HVAC system, I sure forgot about it a few times and I never 
 remember which filter size to buy. Personal health, when was my last checkup? What about pets, do they need yearly shots? Did I miss house insurance renewal and what was 
 the amount paid last year? Does my water filter need to be replaced? Is my treadmill track lubricated? And the list keeps going.
 
