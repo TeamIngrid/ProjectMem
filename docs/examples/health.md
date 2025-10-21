@@ -21,13 +21,13 @@ You will be redirected to the main dashboard. In the bottom left corner click on
 
 ![](../../assets/images/examples/health/add_new_category.jpg)
 
-Add new item and name it “my health”, you can add your own birthday (if you want). Let’s add following actions:
+Add the New Category and name it “my health”, you can add your own birthday (if you want). Click on New Action. Let’s add the following actions:
 
 * doctor checkup every 1 year
 * dental checkup every 1 year
 * donate blood every 1 year
 
-![](../../assets/images/examples/health/new_item.png)
+![](../../assets/images/examples/health/new_action.png)
 
 Click “done” and new item is happy to report that some additional information is needed.
 
