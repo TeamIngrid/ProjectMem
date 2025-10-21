@@ -15,18 +15,20 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 Enter your email and password and complete sign in.
 
-Add new item, name it and add following actions:
+You will be redirected to the main dashboard. In the bottom left corner click on "New Category". 
+Add new category, name it, click on New Action and add the following actions:
 
 * Replace air filter every 3 months
-* Inspect smoke detectors every 1 years
+* Inspect smoke detectors every 1 year
 * Replace water heater every 12 years
 
 ![](../../assets/images/examples/house/new_item.png)
 
-You can add as many actions as you want but for the example lets leave it at those.
+You can add as many actions as you want but for this example, lets leave it at those.
 
-Click “done” and you will be landed to dashboard with “my house” needing some attention. It needs to know when last time you performed those actions in order to
-calculate schedule for the future. Let’s fill out that information.
+Click “done” and you will next land on the dashboard with a new category called “my house” which needs some attention. The system needs to know
+when was the last time you performed those actions in order to
+calculate a schedule for the future. Let’s fill out that information.
 
 ![](../../assets/images/examples/house/insufficient_info.png)
 
