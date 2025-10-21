@@ -31,7 +31,7 @@ Add the New Category and name it “my health”, you can add your own birthday 
 
 Click “done” and new action is happy to report that some additional information is needed.
 
-![](../../assets/images/examples/health/insufficient_info.png)
+![](../../assets/images/examples/health/insufficient_info.jpg)
 
 It needs to know when was the last time you had checkups. Click red link, set the date of the last time you did checkup and click “save”. 
 Repeat this step two more times, and now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have the next one.
