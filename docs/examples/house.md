@@ -7,9 +7,7 @@ nav_order: 2
 
 # House
 
-You have a house, and it requires some minimum level of maintenance. Every few month air filter needs to be replaced. Do you need to inspect smoke and fire
-detectors once per year? Every 12 years or so water tank needs to be replaced and perhaps every 15-20 years shingles on the roof should be replaced. No one
-enjoys waking up one morning without hot water or water dripping from a top. So lets create a house item and set few actions to it.
+Owning a home means keeping up with a basic level of maintenance. Every few months, the air filter needs to be replaced. Once a year, check your smoke and carbon-monoxide detectors. About every 12 years, plan to replace the water heater, and every 15–20 years, the roof shingles may need attention. No one enjoys waking up to a cold shower or discovering water dripping from the ceiling. So let’s create a “House” item and assign a few actions to it to stay ahead of these tasks.
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
