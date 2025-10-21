@@ -29,7 +29,7 @@ Add the New Category and name it “my health”, you can add your own birthday 
 
 ![](../../assets/images/examples/health/new_action.png)
 
-Click “done” and new item is happy to report that some additional information is needed.
+Click “done” and new action is happy to report that some additional information is needed.
 
 ![](../../assets/images/examples/health/insufficient_info.png)
 
