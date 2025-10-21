@@ -16,7 +16,7 @@ Enter your email and password and complete sign in.
 
 You will be redirected to the main dashboard. In the bottom left corner click on "New Category". Create a new category, give it a name (say sister Jesse), perhaps add an action: “contact Jesse” every 20 days. 
 
-![](../../assets/images/examples/keep_in_touch/add_new_item.png)
+![](../../assets/images/examples/keep_in_touch/add_new_category.png)
 
 Click “done” and return to dashboard.
 
