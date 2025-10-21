@@ -17,7 +17,9 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 Enter your email and password and complete sign in. 
 
-![](../../assets/images/examples/health/add_new_item.png)
+You will be redirected to the main dashboard. In the bottom left corner click on "New Category".
+
+![](../../assets/images/examples/health/add_new_category.jpg)
 
 Add new item and name it “my health”, you can add your own birthday (if you want). Let’s add following actions:
 
