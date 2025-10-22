@@ -32,6 +32,6 @@ Back at the dashboard you can see next time you should contact Jesse. More over 
 
 You can view all the events by click on “sister Jesse”
 
-![](../../assets/images/examples/keep_in_touch/event_log_for_sister_jesse.png)
+![](../../assets/images/examples/keep_in_touch/record_log_for_sister_jesse.png)
 
 This way you can go back in time and recall what’s important to you and always keep in touch with people you care about.
