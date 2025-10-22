@@ -15,7 +15,7 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 Enter your email and password and complete sign in. 
 
-You will be redirected to the main dashboard. In the bottom left corner click on "New Category". Create a new category, give it a name, call it “my lawn mower”, click “work units” and select “hours” from the dropdown. Let’s select “origination date” to manufacturing date, it can be approximated to a year if you don’t remember when it was purchased. Now it is time to set the actions, click “+” under actions and populate fields so it reads as: “clean air filter every (repeats every) 25 hours”. Let’s keep adding new actions, click “+” for every new action:
+You will be redirected to the main dashboard. In the bottom left corner click on "New Category". Create a new category, give it a name, call it “my lawn mower”. Click “work units” and select “hours” from the dropdown. Let’s choose the “origination date” as the manufacturing date, it can be approximated to a year if you don’t remember when it was purchased. Now it is time to set the actions, click “+” under actions and populate the fields, so it reads as: “clean air filter every (repeats every) 25 hours”. Let’s keep adding new actions, click “+” for every new action:
 
 * replace spark plug every 150 hours
 * replace oil every 50 hours
