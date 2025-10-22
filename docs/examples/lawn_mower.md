@@ -25,7 +25,7 @@ You will be redirected to the main dashboard. In the bottom left corner click on
 * adjust valve clearance every 100 hours
 * add grease pinion gears every 100 hours
 
-![](../../assets/images/examples/lawn_mower/new_item.png)
+![](../../assets/images/examples/lawn_mower/new_item.jpg)
 
 Now that you entered all the required actions, click “done”. You will land back to dashboard and see new item “my lawn mower” with warning sign saying
 “insufficient information… add current hours”. Memseer doesn’t know how many hours did you put on your lawn mower so far and it needs to know in order to
