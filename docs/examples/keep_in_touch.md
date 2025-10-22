@@ -26,7 +26,7 @@ Click on “add last time the event took place”, pick the date you contacted J
 
 ![](../../assets/images/examples/keep_in_touch/add_new_event.png)
 
-Back at the dashboard and see next time you should contact Jesse. More over you can add event, let’s say you want to remember a flower shop that had great selection and delivered on time. Click “+ event”, give it a name (ex.: “send birthday flowers”), pick a date when you sent flowers, add notes and click “save”.
+Back at the dashboard you can see next time you should contact Jesse. More over you can add event, let’s say you want to remember a flower shop that had great selection and delivered on time. Click “+ event”, give it a name (ex.: “send birthday flowers”), pick a date when you sent flowers, add notes and click “save”.
 
 ![](../../assets/images/examples/keep_in_touch/add_new_event_2.png)
 
