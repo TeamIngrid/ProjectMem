@@ -7,10 +7,7 @@ nav_order: 4
 
 # Lawn mower
 
-You have gasoline lawn mower, like everything else it needs attention. For example: air filter needs to be cleaned every 25 hours of use. Oil change should be
-done every 50 hours of work or every 25 under heavy loads. Check grass bag every 100 hours of use and don’t forget to replace spark plug every 150 hours. In
-addition flywheel break pad, valve clearance and pinion gears should be check, adjusted and/or greased every 100 hours. Kinda long list to remember, but we can
-use Memseer to keep track of each and every point.
+You have a gasoline lawn mower, and like everything else, it needs attention. For example, the air filter should be cleaned every 25 hours of use. The oil should be changed every 50 hours—or every 25 under heavy loads. Check the grass bag every 100 hours, and don’t forget to replace the spark plug every 150 hours. In addition, the flywheel brake pad, valve clearance, and pinion gears should be checked, adjusted, and/or greased every 100 hours. It’s a long list to remember, but we can use Memseer to keep track of every last item.
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
