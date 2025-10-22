@@ -27,9 +27,7 @@ You will be redirected to the main dashboard. In the bottom left corner click on
 
 ![](../../assets/images/examples/lawn_mower/new_item.jpg)
 
-Now that you entered all the required actions, click “done”. You will land back to dashboard and see new item “my lawn mower” with warning sign saying
-“insufficient information… add current hours”. Memseer doesn’t know how many hours did you put on your lawn mower so far and it needs to know in order to
-calculate when and what needs to be done. 
+Now that you’ve entered all the required actions, click Done. You’ll return to the dashboard and see a new item—My Lawn Mower—with a warning that says: “Insufficient information — add current hours.” Memseer doesn’t yet know how many hours you’ve put on your mower, and it needs that number to calculate what’s due and when. 
 
 ![](../../assets/images/examples/lawn_mower/insufficient_info.png)
 
