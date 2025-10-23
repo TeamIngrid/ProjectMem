@@ -31,8 +31,7 @@ Now that you’ve entered all the required actions, click Done. You’ll return 
 
 ![](../../assets/images/examples/lawn_mower/insufficient_info.png)
 
-Click on warning sign and populate field “hours” with current milage so to speak, let’s say you done 5 hours so far,
-enter 5 and click “save”, back to the dashboard and you can see “my lawn mower” with a schedule, “what and when” something needs to be done.
+Click on the warning sign and populate the field “hours” with current milage so to speak, let’s say you’ve done 5 hours so far, enter 5 and click “save”, now back in the dashboard, you can see “my lawn mower” with a schedule of “what and when” something needs to be done.
 
 ![](../../assets/images/examples/lawn_mower/schedule.png)
 
