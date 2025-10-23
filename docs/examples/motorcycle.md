@@ -33,6 +33,8 @@ fields are populated already) and click “save”. Back to the dashboard and yo
 actions around the event, let’s say regardless of milage you want to inspect the chain once every 6 month. You can create new action: “inspect chain every 6
 months”. Now Memseer will remind you to inspect the chain half a year after last inspection.
 
+![](../../assets/images/examples/motorcycle/current_km.png)
+
 In addition to that you might want to inspect the chain more frequently during a particular season (tough conditions or more frequent use), and so you can add
 new action as such: “inspect chain every 2 month between August and November”.
 
