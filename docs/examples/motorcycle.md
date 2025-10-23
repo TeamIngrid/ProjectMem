@@ -17,9 +17,7 @@ Enter your email and password and complete sign in.
 
 ![](../../assets/images/examples/motorcycle/add_new_category.jpg)
 
-Go ahead and create new item. Give it a name, check “work units” and select
-“kilometers”, don’t forget to select “origination date” in order to have proper scheduling. Now add new action by clicking “+” sign, filling out: “inspect chain
-every 500 kilometers” and click “done”.
+You will be redirected to the main dashboard. In the bottom left corner click on "New Category". Go ahead and create the new category. Give it a name, check “work units” and select “kilometers”, don’t forget to select “origination date” in order to have proper scheduling. Now add new action by clicking “New Action +” sign, filling out: “inspect chain every 500 kilometers” and click “done”.
 
 ![](../../assets/images/examples/motorcycle/new_action.png)
 
