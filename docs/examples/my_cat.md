@@ -25,7 +25,7 @@ for it if you need to purchase it again. Click on yellow icon “notes” and ad
 Now click “done” and you will be returned to the dashboard.
 At this point you can start keeping a log of pet’s treatment. Click icon “checkbox” and enter a date when you gave your pet anti parasitic medication last time.
 
-![](../../assets/images/examples/cat/new_event.png)
+![](../../assets/images/examples/cat/new_record.png)
 
 Don’t forget to click “save”, so Memseer remembers the information and calculates next date for the action.
 
