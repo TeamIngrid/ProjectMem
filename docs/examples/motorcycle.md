@@ -21,7 +21,7 @@ Go ahead and create new item. Give it a name, check “work units” and select
 “kilometers”, don’t forget to select “origination date” in order to have proper scheduling. Now add new action by clicking “+” sign, filling out: “inspect chain
 every 500 kilometers” and click “done”.
 
-![](../../assets/images/examples/motorcycle/new_item.png)
+![](../../assets/images/examples/motorcycle/new_action.png)
 
 You will be brought back to the dashboard and you will see your item with a notice that it requires current kilometers
 in order to calculate schedule.
