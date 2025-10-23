@@ -15,7 +15,7 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 Enter your email and password and complete sign in. 
 
-![](../../assets/images/examples/motorcycle/add_new_item.png)
+![](../../assets/images/examples/motorcycle/add_new_category.jpg)
 
 Go ahead and create new item. Give it a name, check “work units” and select
 “kilometers”, don’t forget to select “origination date” in order to have proper scheduling. Now add new action by clicking “+” sign, filling out: “inspect chain
