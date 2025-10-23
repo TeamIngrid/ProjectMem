@@ -35,8 +35,6 @@ Click on the warning sign and populate the field “hours” with current milage
 
 ![](../../assets/images/examples/lawn_mower/schedule.png)
 
-When time comes and you completed an action, lets say “clean air filter”, you can click on check mark across the action on the dashboard, enter current hours (
-ex.: 25 hours) and Memseer will re-calculate all the actions in order to provide you with approximate count down when next action is required. You don’t have
-keep hand-written notes and check it every time you are about to use the mower.
+When the time comes to complete an action—say, “Clean air filter”—simply click the check mark next to that action on the dashboard. Enter the current usage hours (for example, 25 hours), and Memseer will automatically recalculate all related actions to give you an updated countdown to the next one. You no longer need to keep handwritten notes or check them every time you’re about to use the mower.
 
 ![](../../assets/images/examples/lawn_mower/dashboard.png)
