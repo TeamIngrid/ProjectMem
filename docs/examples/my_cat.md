@@ -15,7 +15,7 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 Enter your email and password and complete sign in. 
 
-![](../../assets/images/examples/cat/new_item.png)
+![](../../assets/images/examples/cat/new_category.png)
 
 One more thing, it would be nice to have medication name and brand written down, so you don’t have to remember or search
 for it if you need to purchase it again. Click on yellow icon “notes” and add all the information. 
