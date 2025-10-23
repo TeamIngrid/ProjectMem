@@ -21,19 +21,15 @@ You will be redirected to the main dashboard. In the bottom left corner click on
 
 ![](../../assets/images/examples/motorcycle/new_action.png)
 
-You will be brought back to the dashboard and you will see your item with a notice that it requires current kilometers
-in order to calculate schedule.
+You’ll return to the dashboard, where you’ll see your item marked with a notice indicating that current mileage is required to calculate the schedule.
 
 ![](../../assets/images/examples/motorcycle/insufficient_info.png)
 
-Don’t worry this is one time action for new items. Click “add current kilometers” or red sign, fill in kilometers (all other
-fields are populated already) and click “save”. Back to the dashboard and you can see approximate time when you will have to inspect the chain. You can set more
-actions around the event, let’s say regardless of milage you want to inspect the chain once every 6 month. You can create new action: “inspect chain every 6
-months”. Now Memseer will remind you to inspect the chain half a year after last inspection.
+Don’t worry—this is a one-time action for new items. Click “add current kilometers” (or the red icon), enter the current reading, and click Save. Once you’re back on the dashboard, you’ll see an estimate of when the next chain inspection will be due.
+You can also add more actions around this event. For example, if you want to inspect the chain every six months regardless of mileage, create a new action called “Inspect chain every 6 months.” Memseer will then remind you to perform the inspection half a year after the last one.
 
 ![](../../assets/images/examples/motorcycle/current_km.png)
 
-In addition to that you might want to inspect the chain more frequently during a particular season (tough conditions or more frequent use), and so you can add
-new action as such: “inspect chain every 2 month between August and November”.
+Additionally, if you’d like to inspect the chain more often during certain seasons—say, when conditions are tougher or usage is higher—you can add another action such as “Inspect chain every 2 months between August and November.”
 
 ![](../../assets/images/examples/motorcycle/dashboard.png)
