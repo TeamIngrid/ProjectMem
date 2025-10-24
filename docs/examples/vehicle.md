@@ -17,7 +17,7 @@ Enter your email and password and complete sign in.
 
 Let's add new item from dashboard:
 
-![](../../assets/images/examples/vehicle/add_new_category.png)
+![](../../assets/images/examples/vehicle/add_new_category.jpg)
 
 Give it a name (for example: "my favorite car"), click "work units", select "miles" from the dropdown and select origination date:
 
