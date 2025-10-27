@@ -13,9 +13,9 @@ Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
 ![](../../assets/images/guides/sign_up/signin.jpg)
 
-Enter your email and password and complete sign in.
+You will be redirected to the main dashboard. In the bottom left corner click on "New Category".
 
-Let's add new item from dashboard:
+Let's add a new category from the dashboard:
 
 ![](../../assets/images/examples/vehicle/add_new_category.jpg)
 
@@ -23,7 +23,7 @@ Give it a name (for example: "my favorite car"), click "work units", select "mil
 
 ![](../../assets/images/examples/vehicle/my_favorite_car.png)
 
-Now it is time to add actions! Here is a list of actions that we will be adding:
+Now, it is time to add actions! Here is a list of actions that we will be adding:
 
 * inspect entire vehicle every 1 year
 * replace battery every 4 years
@@ -48,7 +48,7 @@ Continue adding actions, so you end up with following list:
 
 Now click "done". You will be dropped back to dashboard, and you will see your new item:
 
-![](../../assets/images/examples/vehicle/new_item.png)
+![](../../assets/images/examples/vehicle/new_category.png)
 
 Note, there is a warning sign, indicating some missing information - which is normal because there is no current milage provided for the vehicle. Let's add that information, click on the warning sign and fill out current miles (for example vehicle done 100 miles this far):
 
