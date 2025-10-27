@@ -7,7 +7,7 @@ nav_order: 5
 
 # Vehicle
 
-You have a vehicle and would like to keep it in a good shape, so lets put together list of actions that are needed. In this example I'll use community provided actions from [General Modern Toyotas](https://docs.memseer.com/docs/shared.html). Please feel free to adjust maintenance intervals. 
+You have a vehicle and would like to keep it in good shape, so let’s put together a list of actions that are needed. In this example I'll use community provided actions from [General Modern Toyotas](https://docs.memseer.com/docs/shared.html). Please feel free to adjust maintenance intervals. 
 
 Navigate to [memseer.com](https://memseer.com){:target="_blank"}
 
@@ -60,7 +60,7 @@ Click "save" and you will be returned to the dashboard. Now there is no more mis
 
 **Please note:** at the current pace of 100 miles per day, you will hit you first oil change in about 2 months. But perhaps you don't drive 100 miles per day and only done 100 miles this one time. No problem, just keep adding events to the item, Memseer will recalculate your daily average as more information arrives.
 
-Lets say few days gone by, we can add new event with current milage, let's click on "+ event"
+Lets say few days gone by, we can add new event with current mileage, let's click on "+ event"
 
 ![](../../assets/images/examples/vehicle/add_quick_event.png)
 
