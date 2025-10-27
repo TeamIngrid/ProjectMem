@@ -50,7 +50,7 @@ Now click "done". You will be dropped back to dashboard, and you will see your n
 
 ![](../../assets/images/examples/vehicle/new_category.png)
 
-Note, there is a warning sign, indicating some missing information - which is normal because there is no current milage provided for the vehicle. Let's add that information, click on the warning sign and fill out current miles (for example vehicle done 100 miles this far):
+Note, there is a warning sign, indicating some missing information - which is normal because there is no current mileage provided for the vehicle. Let's add that information, click on the warning sign and fill out current miles (for example vehicle done 100 miles this far):
 
 ![](../../assets/images/examples/vehicle/add_current_miles.png)
 
