@@ -38,7 +38,7 @@ Now, it is time to add actions! Here is a list of actions that we will be adding
 * replace transmission fluid every 60000 miles
 * rotate tires 15000 miles
 
-Click on "+" under "Actions" section and fill out first action:
+Click on "New Action", under the "Actions" section: fill out the first action:
 
 ![](../../assets/images/examples/vehicle/first_action.png)
 
@@ -46,7 +46,7 @@ Continue adding actions, so you end up with following list:
 
 ![](../../assets/images/examples/vehicle/my_favorite_car_with_actions.png)
 
-Now click "done". You will be dropped back to dashboard, and you will see your new item:
+Now click "save". You will be dropped back to the dashboard, and you will see your new category:
 
 ![](../../assets/images/examples/vehicle/new_category.png)
 
