@@ -62,7 +62,7 @@ Click "save" and you will be returned to the dashboard. Now there is no more mis
 
 Lets say few days gone by, we can add new event with current mileage, let's click on "+ event"
 
-![](../../assets/images/examples/vehicle/add_quick_event.png)
+![](../../assets/images/examples/vehicle/add_quick_record.png)
 
 Type "current miles" into name field and add current miles into miles field (lets say you are at 110 miles), click save and you will be dropped back to the dashboard with recalculated schedule:
 
