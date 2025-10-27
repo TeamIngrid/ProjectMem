@@ -66,6 +66,6 @@ Lets say few days gone by, we can add new event with current mileage, let's clic
 
 Type "current miles" into name field and add current miles into miles field (lets say you are at 110 miles), click save and you will be dropped back to the dashboard with recalculated schedule:
 
-![](../../assets/images/examples/vehicle/recalculated_schedule.png)
+![](../../assets/images/examples/vehicle/recalculate_schedule.png)
 
 Now your oil service is calculated to be in 6 months. As you keep driving and adding more events to the item, Memseer will be constantly recalculating and making sure that maintenance is scheduled at the correct time.
