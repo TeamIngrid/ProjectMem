@@ -40,18 +40,20 @@ Click "Export Data" and the category file will be saved to your device under the
 
 ### Import
 
-In order to import a new item, go to dashboard, scroll to the bottom and click on "Add new item".
+In order to import a brand-new category, go to the main dashboard, scroll to the bottom and click on "New Category".
 
 ![](../../assets/images/guides/import_export/add_new_category.png)
+
+Next, write the name of the new category and click “save”. You will be redirected to the main dashboard where you will go back and click on the new category name. You will land on the record log for the new category. Which is currently empty.
 
 ![](../../assets/images/guides/import_export/update_category.png)
 
 
-Next, click on "Import".
+Next, select the database icon and click on the "Import" button in the bottom right hand corner.
 
 ![](../../assets/images/guides/import_export/new_category_import.png)
 
-Select an import file (example: `Miata GT.json`) and in a second you will see populated item
+Select an import file (example: `Miata GT.csv`) and in a second you will see the populated item.
 
 ![](../../assets/images/guides/import_export/newly_imported_records.png)
 
