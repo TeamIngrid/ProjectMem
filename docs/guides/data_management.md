@@ -48,7 +48,7 @@ In order to import a new item, go to dashboard, scroll to the bottom and click o
 
 Next, click on "Import".
 
-![](../../assets/images/guides/import_export/new_item_import.png)
+![](../../assets/images/guides/import_export/new_category_import.png)
 
 Select an import file (example: `Miata GT.json`) and in a second you will see populated item
 
