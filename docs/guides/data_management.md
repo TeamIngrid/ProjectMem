@@ -12,7 +12,7 @@ How to import & export data
 {: .fs-6 .fw-300 }
 ---
 
-Your data split into 2 parts: [Item](../guides/overview.md#item) (includes actions) and [Events](../guides/overview.md#events). Both parts are independent of each other and can be imported/exported separately. 
+Your data split into 2 parts: [Category](../guides/overview.md#category) (includes actions) and [Records](../guides/overview.md#records). Both parts are independent of each other and can be imported/exported separately.
 
 ---
 
