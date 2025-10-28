@@ -21,20 +21,21 @@ Your data split into 2 parts: [Category](../guides/overview.md#category) (includ
 
 --- 
 
-## Item
+## Category
 
 ### Export
 
-In order to export your item, go to dashboard, find desired item and click edit item (gear image).
+In order to export your category, go to dashboard, find the desired title and click edit category (gear image).
 
 ![](../../assets/images/guides/import_export/category_settings_gear.png)
 
-Next scroll all the way to the bottom of the page and find "Export Data" button on the right side.
+Next, scroll all the way to the bottom of the page and click on the database icon on the bottom right hand corner, click on "Export Data".
 
 ![](../../assets/images/guides/import_export/category_settings_export.png)
 
-Click "Export Data" and item file will be saved to your device under item's name, for example:\
-`Miata GT.json`
+Click "Export Data" and the category file will be saved to your device under the category's name, for example:\
+`Miata GT.csv`
+
 
 
 ### Import
