@@ -27,7 +27,7 @@ Your data split into 2 parts: [Item](../guides/overview.md#item) (includes actio
 
 In order to export your item, go to dashboard, find desired item and click edit item (gear image).
 
-![](../../assets/images/guides/import_export/item_settings_gear.png)
+![](../../assets/images/guides/import_export/category_settings_gear.png)
 
 Next scroll all the way to the bottom of the page and find "Export Data" button on the right side.
 
