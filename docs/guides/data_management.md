@@ -52,7 +52,7 @@ Next, click on "Import".
 
 Select an import file (example: `Miata GT.json`) and in a second you will see populated item
 
-![](../../assets/images/guides/import_export/newly_imported_item.png)
+![](../../assets/images/guides/import_export/newly_imported_records.png)
 
 ---
 
