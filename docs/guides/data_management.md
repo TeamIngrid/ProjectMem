@@ -31,7 +31,7 @@ In order to export your item, go to dashboard, find desired item and click edit 
 
 Next scroll all the way to the bottom of the page and find "Export Data" button on the right side.
 
-![](../../assets/images/guides/import_export/item_settings_export.png)
+![](../../assets/images/guides/import_export/category_settings_export.png)
 
 Click "Export Data" and item file will be saved to your device under item's name, for example:\
 `Miata GT.json`
