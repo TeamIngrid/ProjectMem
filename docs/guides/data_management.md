@@ -43,6 +43,7 @@ In order to import a new item, go to dashboard, scroll to the bottom and click o
 
 ![](../../assets/images/guides/import_export/add_new_category.png)
 
+
 Next, click on "Import".
 
 ![](../../assets/images/guides/import_export/new_item_import.png)
