@@ -41,7 +41,7 @@ Click "Export Data" and item file will be saved to your device under item's name
 
 In order to import a new item, go to dashboard, scroll to the bottom and click on "Add new item".
 
-![](../../assets/images/guides/import_export/add_new_item.png)
+![](../../assets/images/guides/import_export/add_new_category.png)
 
 Next, click on "Import".
 
