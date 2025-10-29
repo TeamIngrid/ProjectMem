@@ -93,16 +93,16 @@ Click "Export Data & Attachments". A zip file will be saved to your device under
 
 ### Import
 
-In order to import events, go to dashboard and click on the item's name.
+In order to import records, go to dashboard and click on the category's name.
 
 ![](../../assets/images/guides/import_export/import_records.png)
 
-Note: the item does NOT have "Last event:" and has a bunch of "Late" actions. This is normal since there are no events.
+Note: the category might NOT have a "Last event:" and might have a bunch of "Late" actions. This is normal if there are no events.
 
-Click on item's name.
+Click on category's name.
 
 ![](../../assets/images/guides/import_export/import_records_category_name.png)
 
-On the bottom right click "Import", select file (example: `Miata GT.csv`) and in a second you will see populated events.
+On the bottom right click "Import", select file (example: `Miata GT.csv`) and in a second you will see the populated records.
 
 ![](../../assets/images/guides/import_export/import_records_import_button.png)
