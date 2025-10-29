@@ -94,7 +94,7 @@ Click "Export Data & Attachments". A zip file will be saved to your device under
 
 In order to import events, go to dashboard and click on the item's name.
 
-![](../../assets/images/guides/import_export/import_events.png)
+![](../../assets/images/guides/import_export/import_records.png)
 
 Note: the item does NOT have "Last event:" and has a bunch of "Late" actions. This is normal since there are no events.
 
