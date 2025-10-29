@@ -63,7 +63,7 @@ Select an import file (example: `Miata GT.csv`) and in a second you will see the
 
 ### Export
 
-When exporting, you have two options: export events only, or export events with file attachments. Let's first discuss how to export events:
+When exporting, you have two options: export records only, or export records with file attachments. Let's first discuss how to export records:
 
 #### Export Records
 To export events, navigate to the dashboard and locate the desired item. Click on the item name.
