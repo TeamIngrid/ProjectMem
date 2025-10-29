@@ -49,7 +49,7 @@ Next, write the name of the new category and click “save”. You will be redir
 ![](../../assets/images/guides/import_export/update_category.png)
 
 
-Next, select the database icon and click on the "Import" button in the bottom right hand corner.
+Next, select the database icon and click on the "Import" button in the bottom right-hand corner.
 
 ![](../../assets/images/guides/import_export/new_category_import.png)
 
@@ -68,7 +68,7 @@ When exporting, you have two options: export events only, or export events with 
 #### Export Events
 To export events, navigate to the dashboard and locate the desired item. Click on the item name.
 
-![](../../assets/images/guides/import_export/item_events.png)
+![](../../assets/images/guides/import_export/category_records.png)
 
 Next, scroll to the bottom of the page and find the "Export Data" button on the right side.
 
