@@ -104,4 +104,4 @@ Click on item's name.
 
 On the bottom right click "Import", select file (example: `Miata GT.csv`) and in a second you will see populated events.
 
-![](../../assets/images/guides/import_export/import_events_import_button.png)
+![](../../assets/images/guides/import_export/import_records_import_button.png)
