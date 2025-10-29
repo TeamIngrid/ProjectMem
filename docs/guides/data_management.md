@@ -79,7 +79,7 @@ Click "Export Data". The record file will be saved to your device under the cate
 
 #### Exporting Records with Attachments
 
-To export events with attachments, go to the dashboard, find the desired item, and click on the item name.
+To export records with attachments, go to the dashboard, find the desired category, and click on the category name.
 
 ![](../../assets/images/guides/import_export/category_records.png)
 
@@ -87,8 +87,9 @@ Then, scroll to the bottom of the page and locate the "Export Data & Attachments
 
 ![](../../assets/images/guides/import_export/records_export.png)
 
-Click "Export Data & Attachments". A zip file will be saved to your device under the item's name, for example:
-`Miata GT.zip`. This archive will contain `Miata GT.csv` along with all attached files. 
+Click "Export Data & Attachments". A zip file will be saved to your device under the category’s title, for example:
+`Miata GT.zip`. This archive will contain `Miata GT.csv` along with all attached files.
+
 
 ### Import
 
