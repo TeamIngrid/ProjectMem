@@ -100,7 +100,7 @@ Note: the item does NOT have "Last event:" and has a bunch of "Late" actions. Th
 
 Click on item's name.
 
-![](../../assets/images/guides/import_export/import_events_item_name.png)
+![](../../assets/images/guides/import_export/import_records_category_name.png)
 
 On the bottom right click "Import", select file (example: `Miata GT.csv`) and in a second you will see populated events.
 
