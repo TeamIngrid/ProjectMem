@@ -59,13 +59,13 @@ Select an import file (example: `Miata GT.csv`) and in a second you will see the
 
 ---
 
-## Events
+## Records
 
 ### Export
 
 When exporting, you have two options: export events only, or export events with file attachments. Let's first discuss how to export events:
 
-#### Export Events
+#### Export Records
 To export events, navigate to the dashboard and locate the desired item. Click on the item name.
 
 ![](../../assets/images/guides/import_export/category_records.png)
@@ -77,7 +77,7 @@ Next, scroll to the bottom of the page and find the "Export Data" button on the 
 Click "Export Data". The events file will be saved to your device under the item's name, for example:
 `Miata GT.csv`
 
-#### Exporting Events with Attachments
+#### Exporting Records with Attachments
 
 To export events with attachments, go to the dashboard, find the desired item, and click on the item name.
 
