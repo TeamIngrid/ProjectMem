@@ -66,7 +66,7 @@ Select an import file (example: `Miata GT.csv`) and in a second you will see the
 When exporting, you have two options: export records only, or export records with file attachments. Let's first discuss how to export records:
 
 #### Export Records
-To export events, navigate to the dashboard and locate the desired item. Click on the item name.
+To export records, navigate to the dashboard and locate the desired category. Click on the category name.
 
 ![](../../assets/images/guides/import_export/category_records.png)
 
