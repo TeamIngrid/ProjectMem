@@ -81,7 +81,7 @@ Click "Export Data". The events file will be saved to your device under the item
 
 To export events with attachments, go to the dashboard, find the desired item, and click on the item name.
 
-![](../../assets/images/guides/import_export/item_events.png)
+![](../../assets/images/guides/import_export/category_records.png)
 
 Then, scroll to the bottom of the page and locate the "Export Data & Attachments" button on the right side.
 
