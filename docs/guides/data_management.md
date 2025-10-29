@@ -72,7 +72,7 @@ To export events, navigate to the dashboard and locate the desired item. Click o
 
 Next, scroll to the bottom of the page and find the "Export Data" button on the right side.
 
-![](../../assets/images/guides/import_export/events_export.png)
+![](../../assets/images/guides/import_export/records_export.png)
 
 Click "Export Data". The events file will be saved to your device under the item's name, for example:
 `Miata GT.csv`
@@ -85,7 +85,7 @@ To export events with attachments, go to the dashboard, find the desired item, a
 
 Then, scroll to the bottom of the page and locate the "Export Data & Attachments" button on the right side.
 
-![](../../assets/images/guides/import_export/events_export.png)
+![](../../assets/images/guides/import_export/records_export.png)
 
 Click "Export Data & Attachments". A zip file will be saved to your device under the item's name, for example:
 `Miata GT.zip`. This archive will contain `Miata GT.csv` along with all attached files. 
