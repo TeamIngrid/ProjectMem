@@ -77,6 +77,8 @@ Event notes can contain anything you want to make note of. You can make a note o
 
 Work units is an optional field for an event that appears whenever the item has work units enabled. Work units field comes with three options: kilometers, miles or hours. Here is an example:
 
+![](../../assets/images/guides/overview/category_select_work_units.png)
+
 ![](../../assets/images/guides/overview/work_units.png)
 
 Work units field comes handy when you are dealing with machinery that needs maintenance based on mileage rather than time passage. For example, a vehicle needs spark plugs replaced after certain amount of miles.
