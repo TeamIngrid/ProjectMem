@@ -45,7 +45,7 @@ Each card on the Dashboard represents an item. Let's take a closer look at the i
 
 Item is something you want to keep an eye on and/or take care of. It can be a vehicle, device, personal health, special days, holiday and more. Each item contains [events](#events) - in order to keep a log and [actions](#actions) to be performed if so desired.
 
-![](../../assets/images/guides/overview/new_item.png)
+![](../../assets/images/guides/overview/new_category.png)
 
 Item has several fields, which are optional.
 
