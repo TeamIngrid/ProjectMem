@@ -121,7 +121,7 @@ These actions with specific conditions apply during certain periods, allowing yo
 
 `Antiparasitic medication every 3 months between mar and nov`
 
-![](../../assets/images/guides/overview/antiparasitic_medication_every_3_months_between_mar_and_nov.jpg)
+![](../../assets/images/guides/overview/antiparasitic_medication_every_3_months_between_mar_and_nov.png)
 
 This example illustrates [cat care](../examples/my_cat.md), where the cat needs to take medication every 3 months during the outdoor season.
 
