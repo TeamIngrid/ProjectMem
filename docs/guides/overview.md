@@ -141,7 +141,11 @@ Or property taxes might be due every year on February 20th:
 
 `Property tax every 1 year on feb 20th`
 
-![](../../assets/images/guides/overview/property_tax_every_1_year_on_feb_20th.jpg)
+![](../../assets/images/guides/overview/property_tax_add_action.png)
+
+
+
+![](../../assets/images/guides/overview/property_tax_every_1_year_on_feb_20th.png)
 
 
 ## Creating action(s)
