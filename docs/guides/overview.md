@@ -154,7 +154,7 @@ There are two ways to create actions: directly, by navigating to "Item & Actions
 
 The first method involves navigating to "Item & Actions" and adding new actions. Here's an image that illustrates this process:
 
-![](../../assets/images/guides/overview/create_action_edit_category_and_actions.png)
+![](../../assets/images/guides/overview/create_action_edit_item_and_actions.png)
 
 The second method is useful when you already have events and want to create actions based on them. To do this, navigate to an event log and identify the event that requires an action. For example, let's say we have an event called "check water chemistry," which occurs every week based on the dates between events.
 
