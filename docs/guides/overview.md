@@ -135,7 +135,7 @@ These actions allow for a tight schedule and precise tracking. For example, the 
 
 `Water bill every 3 months on 15th`
 
-![](../../assets/images/guides/overview/water_bill_every_3_months_on_15th.jpg)
+![](../../assets/images/guides/overview/water_bill_every_3_months_on_15th.png)
 
 Or property taxes might be due every year on February 20th:
 
