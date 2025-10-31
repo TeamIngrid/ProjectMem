@@ -27,17 +27,17 @@ The Dashboard is the central hub of Memseer, where you can view all your items a
 
 ![](../../assets/images/dashboard.png)
 
-Each card on the Dashboard represents an item. Let's take a closer look at the information displayed on a single card:
+Each card on the Dashboard represents a category or a subject. Let's take a closer look at the information displayed on a single card:
 
 ![](../../assets/images/guides/overview/dashboard_card.png)
 
-1. The name of the item and the year it was originated. By clicking item name, you will navigate to all the associated events / event log.
-2. The last time an event was added, including the mileage (if applicable).
-3. The item's settings.
+1. The name of the category and the year it was originated. By clicking the category name, you will navigate to all the associated records / record log.
+2. The last time a record was added, including the mileage (if applicable).
+3. The category's settings.
 4. The upcoming action that needs to be performed.
 5. A "quick complete" button for the action.
 6. An option to expand the card to see all scheduled actions sorted by upcoming priority.
-7. An option to add an event to the item.
+7. An option to add a record to the category.
 
 ---
 
