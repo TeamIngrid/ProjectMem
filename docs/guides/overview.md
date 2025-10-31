@@ -57,17 +57,17 @@ Category has several fields, which are optional.
 
 ---
 
-# Events
+# Records
 
-An event is a simple record of what took place. Every event has a name, date, notes and sometimes work units (we will talk about it later). You can create as many events as you want to record different type of event that took place.
+A record is a recollection of something that took place in time. Every record is an event that has a name, date, notes and sometimes work units (we will talk about it later). You can create as many records as you want.
 
 ![](../../assets/images/guides/overview/past_present_date.png)
 
-**Note:** Date selection is limited to present or past dates, because this is an event, that took place already.
+**Note:** Date selection is limited to present or past dates, because this is an event that took place already.
 
-Event names are given in the present tense, for example: "replace air filter". There is no restriction on how you want to name an event; however we recommend sticking the present tense.
+Record names are given in the present tense, as they are based on an action. For example: "replace air filter". There is no restriction on how you want to name an event; however, we recommend sticking to the present tense.
 
-Event notes can contain anything you want to make note of. You can make a note of weather condition, part number, reasons for making certain decisions, the latest stock price and so on. I make extensive use of it when my kid gets sick. I record my observations in case I need to see a doctor at a later point, so I can provide as accurate information as possible.
+Record notes can contain anything you want to make note of. You can make a note of weather condition, part number, invoice, reasons for making certain decisions, the latest stock price and so on. I make extensive use of it when my kid gets sick. I record my observations in case I need to see a doctor at a later point, so I can provide as accurate information as possible.
 
 ![](../../assets/images/guides/overview/my_baby.png)
 
