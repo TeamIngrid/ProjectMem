@@ -91,11 +91,11 @@ An action is a record that indicates conditions when something should be done. E
 
 ![](../../assets/images/guides/overview/example_actions.png)
 
-In the example we can see various actions that should be performed at certain conditions, based on time and/or kilometers. How does an action determines when the condition is met? The action looks into [events](#events), finds the same-named event, and calculates date when the action should take place.
+In the example we can see various actions that should be performed at certain conditions, based on time and/or kilometers. How does an action determine when the condition is met? The action looks into [records](#records), finds the same-named record, and calculates date when the action should take place.
 
 ![](../../assets/images/guides/overview/example_vehicle.png)
 
-Effectively actions are like rules or specifications that should be applied to an [item](#item).  
+Effectively actions are like rules or specifications that should be applied to a [category](#category).
 
 ## Action types:
 
