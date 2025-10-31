@@ -117,7 +117,7 @@ Next, we can add more conditions:
 
 These actions with specific conditions apply during certain periods, allowing you to schedule seasonal tasks that need to be done only within those time frames. For example:
 
-`Antiparasitic medication every 3 months between mar and nov`
+`Antiparasitic medication every 3 months between March and November`
 
 ![](../../assets/images/guides/overview/antiparasitic_medication_every_3_months_between_mar_and_nov.png)
 
@@ -137,11 +137,13 @@ These actions allow for a tight schedule and precise tracking. For example, the 
 
 Or property taxes might be due every year on February 20th:
 
-`Property tax every 1 year on feb 20th`
+`Property tax every 1 year on February 20th`
+
+Create the record, click on "+".
 
 ![](../../assets/images/guides/overview/property_tax_add_action.png)
 
-
+Create the Action for the record.
 
 ![](../../assets/images/guides/overview/property_tax_every_1_year_on_feb_20th.png)
 
