@@ -73,13 +73,13 @@ Record notes can contain anything you want to make note of. You can make a note 
 
 ## Work units
 
-Work units is an optional field for an event that appears whenever the item has work units enabled. Work units field comes with three options: kilometers, miles or hours. Here is an example:
+Work units is an optional field for the record of an event that appears whenever the category has work units enabled. Work units field comes with three options: kilometers, miles or hours. Here is an example:
 
 ![](../../assets/images/guides/overview/category_select_work_units.png)
 
 ![](../../assets/images/guides/overview/work_units.png)
 
-Work units field comes handy when you are dealing with machinery that needs maintenance based on mileage rather than time passage. For example, a vehicle needs spark plugs replaced after certain amount of miles.
+The Work Units field is particularly useful when maintaining machinery that requires service based on usage metrics or based on mileage or kilometers rather than time passage. For example, a vehicle needs spark plugs replaced after a certain number of miles.
 
 ![](../../assets/images/guides/overview/example_sparkplugs.png)
 
