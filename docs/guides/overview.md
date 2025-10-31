@@ -150,17 +150,17 @@ Create the Action for the record.
 
 ## Creating action(s)
 
-There are two ways to create actions: directly, by navigating to "Item & Actions" and adding new actions, or by creating actions from existing events. 
+There are two ways to create actions: directly, by navigating to "Item & Actions" and adding new actions, or by creating actions from existing records.
 
-The first method involves navigating to "Item & Actions" and adding new actions. Here's an image that illustrates this process:
+The first method involves navigating to "Edit Category & Actions" select and click on “New action”. Here's an image that illustrates this process:
 
 ![](../../assets/images/guides/overview/create_action_edit_category_and_actions.png)
 
-The second method is useful when you already have events and want to create actions based on them. To do this, navigate to an event log and identify the event that requires an action. For example, let's say we have an event called "check water chemistry," which occurs every week based on the dates between events.
+The second method is useful when you already have records and want to create actions based on them. To do this, navigate to the record log and identify the record that requires an action. For example, let's say we have a record called "check water chemistry," which occurs every week based on the dates between events.
 
 ![](../../assets/images/guides/overview/example_hot_tub_check_water.png)
 
-To create an action from this event, click on the "+" plus sign. You will be redirected to the "Item & Actions" page, where the newly created action will be highlighted:
+To create an action from this record, click on the "+ New Action" sign. You will be redirected to the "Category & Actions" page, where the newly created action will be highlighted:
 
 ![](../../assets/images/guides/overview/newly_created_action.png)
 
