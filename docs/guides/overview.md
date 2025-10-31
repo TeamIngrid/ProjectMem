@@ -41,19 +41,17 @@ Each card on the Dashboard represents a category or a subject. Let's take a clos
 
 ---
 
-# Item
+# Category
 
-Item is something you want to keep an eye on and/or take care of. It can be a vehicle, device, personal health, special days, holiday and more. Each item contains [events](#events) - in order to keep a log and [actions](#actions) to be performed if so desired.
-
+Category is something you want to keep an eye on and/or take care of. It can be a vehicle, device, personal health, special days, holiday and more. Each item contains [records](#records) - in order to keep a log and [actions](#actions) to be performed if so desired.
 ![](../../assets/images/guides/overview/new_category.png)
 
-Item has several fields, which are optional.
+Category has several fields, which are optional.
 
 **[work units](#work-units)** can be enabled if you need to keep track of thing with kilometers, miles or hours of operation, such as vehicles, airplanes or even treadmills - [see example](#work-units)
+**origination date** - is a date when the category was manufactured/created/ started working or simply when we want to start keeping track.
 
-**origination date** - is a date when the item was manufactured/created or simply started working.
-
-**active** - enables/disables calculation of schedule when [actions](#actions) are present.
+**active** - enables/disables calculation of the schedule when [actions](#actions) are present.
 
 **notifications** - enables/disables notifications (via email) of upcoming actions to be completed.
 
