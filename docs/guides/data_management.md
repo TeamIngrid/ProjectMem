@@ -25,7 +25,7 @@ Your data split into 2 parts: [Category](../guides/overview.md#category) (includ
 
 ### Export
 
-In order to export your category, go to dashboard, find the desired title and click edit category (gear image).
+In order to export your category, go to dashboard, find the desired title and click the edit category (gear image).
 
 ![](../../assets/images/guides/import_export/category_settings_gear.png)
 
@@ -34,7 +34,7 @@ Next, scroll all the way to the bottom of the page and click on the database ico
 ![](../../assets/images/guides/import_export/category_settings_export.png)
 
 Click "Export Data" and the category file will be saved to your device under the category's name, for example:\
-`Miata GT.csv`
+`Miata GT.json`
 
 
 
