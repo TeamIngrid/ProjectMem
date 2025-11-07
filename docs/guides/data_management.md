@@ -101,8 +101,6 @@ Note: the category might NOT have a "Last event:" and might have a bunch of "Lat
 
 Click on category's name.
 
-![](../../assets/images/guides/import_export/import_records_category_name.png)
-
 On the bottom right click "Import", select file (example: `Miata GT.csv`) and in a second you will see the populated records.
 
 ![](../../assets/images/guides/import_export/import_records_import_button.png)
