@@ -44,9 +44,7 @@ In order to import a brand-new category, go to the main dashboard, scroll to the
 
 ![](../../assets/images/guides/import_export/add_new_category.png)
 
-Next, write the name of the new category and click “save”. You will be redirected to the main dashboard where you will go back and click on the new category name. You will land on the record log for the new category. Which is currently empty.
-
-![](../../assets/images/guides/import_export/update_category.png)
+Next, click on "Import".
 
 
 Next, select the database icon and click on the "Import" button in the bottom right-hand corner.
