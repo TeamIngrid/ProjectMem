@@ -25,7 +25,7 @@ Your data split into 2 parts: [Category](../guides/overview.md#category) (includ
 
 ### Export
 
-In order to export your category, go to dashboard, find the desired title and click the edit category (gear image).
+In order to export your category, go to the dashboard, find the desired title and click the edit category (gear image).
 
 ![](../../assets/images/guides/import_export/category_settings_gear.png)
 
@@ -53,7 +53,7 @@ Next, select the database icon and click on the "Import" button in the bottom ri
 
 ![](../../assets/images/guides/import_export/new_category_import.png)
 
-Select an import file (example: `Miata GT.csv`) and in a second you will see the populated item.
+Select an import file (example: `Miata GT.json`) and in a second you will see the populated item.
 
 ![](../../assets/images/guides/import_export/newly_imported_records.png)
 
