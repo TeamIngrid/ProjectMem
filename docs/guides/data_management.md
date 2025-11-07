@@ -46,9 +46,6 @@ In order to import a brand-new category, go to the main dashboard, scroll to the
 
 Next, click on "Import".
 
-
-Next, select the database icon and click on the "Import" button in the bottom right-hand corner.
-
 ![](../../assets/images/guides/import_export/new_category_import.png)
 
 Select an import file (example: `Miata GT.json`) and in a second you will see the populated item.
