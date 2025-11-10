@@ -44,6 +44,7 @@ Each card on the Dashboard represents a category or a subject. Let's take a clos
 # Category
 
 Category is something you want to keep an eye on and/or take care of. It can be a vehicle, device, personal health, special days, holiday and more. Each item contains [records](#records) - in order to keep a log and [actions](#actions) to be performed if so desired.
+
 ![](../../assets/images/guides/overview/new_category.png)
 
 Category has several fields, which are optional.
