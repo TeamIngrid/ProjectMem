@@ -50,6 +50,7 @@ Category is something you want to keep an eye on and/or take care of. It can be 
 Category has several fields, which are optional.
 
 **[work units](#work-units)** can be enabled if you need to keep track of thing with kilometers, miles or hours of operation, such as vehicles, airplanes or even treadmills - [see example](#work-units)
+
 **origination date** - is a date when the category was manufactured/created/ started working or simply when we want to start keeping track.
 
 **active** - enables/disables calculation of the schedule when [actions](#actions) are present.
