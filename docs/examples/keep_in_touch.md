@@ -30,7 +30,7 @@ Back at the dashboard you can see next time you should contact Jesse. More over 
 
 ![](../../assets/images/examples/keep_in_touch/add_new_record_2.png)
 
-You can view all the events by click on “sister Jesse”
+You can view all the events by click on “sister Jesse”.
 
 ![](../../assets/images/examples/keep_in_touch/record_log_for_sister_jesse.png)
 
