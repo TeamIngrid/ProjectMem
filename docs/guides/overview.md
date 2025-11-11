@@ -139,7 +139,7 @@ These actions allow for a tight schedule and precise tracking. For example, the 
 
 Or property taxes might be due every year on February 20th:
 
-`Property tax every 1 year on February 20th`
+`Property tax every 1 year on feb 20th`
 
 Create the record, click on "+".
 
