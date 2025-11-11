@@ -164,7 +164,7 @@ The second method is useful when you already have records and want to create act
 
 To create an action from this record, click on the "+ New Action" sign. You will be redirected to the "Category & Actions" page, where the newly created action will be highlighted:
 
-![](../../assets/images/guides/overview/newly_created_action.png)
+![](../../assets/images/guides/overview/newly_created_action.jpg)
 
 Next, you need to set the unit to "1" and select "weeks." Leave everything else as default and click "Done":
 
