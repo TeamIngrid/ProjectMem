@@ -22,7 +22,7 @@ Add new category, name it, click on New Action and add the following actions:
 * Inspect smoke detectors every 1 year
 * Replace water heater every 12 years
 
-![](../../assets/images/examples/house/new_item.png)
+![](../../assets/images/examples/house/new_category.png)
 
 You can add as many actions as you want but for this example, lets leave it at those.
 
