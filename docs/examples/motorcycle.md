@@ -25,7 +25,7 @@ You’ll return to the dashboard, where you’ll see your item marked with a not
 
 ![](../../assets/images/examples/motorcycle/insufficient_info.png)
 
-Don’t worry—this is a one-time action for new items. Click “add current kilometers” (or the red icon), enter the current reading, and click Save. Once you’re back on the dashboard, you’ll see an estimate of when the next chain inspection will be due.
+Don’t worry—this is a one-time action for new records. Click “add current kilometers” (or the red icon), enter the current reading, and click Save. Once you’re back on the dashboard, you’ll see an estimate of when the next chain inspection will be due.
 You can also add more actions around this event. For example, if you want to inspect the chain every six months regardless of mileage, create a new action called “Inspect chain every 6 months.” Memseer will then remind you to perform the inspection half a year after the last one.
 
 ![](../../assets/images/examples/motorcycle/current_km.png)
