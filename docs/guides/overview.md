@@ -119,7 +119,7 @@ Next, we can add more conditions:
 
 These actions with specific conditions apply during certain periods, allowing you to schedule seasonal tasks that need to be done only within those time frames. For example:
 
-`Antiparasitic medication every 3 months between March and November`
+`Antiparasitic medication every 3 months between mar and nov`
 
 ![](../../assets/images/guides/overview/antiparasitic_medication_every_3_months_between_mar_and_nov.png)
 
