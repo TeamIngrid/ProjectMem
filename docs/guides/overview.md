@@ -141,7 +141,7 @@ Or property taxes might be due every year on February 20th:
 
 `Property tax every 1 year on feb 20th`
 
-Create the record, click on "+".
+Create the record, click on "+ New Record".
 
 ![](../../assets/images/guides/overview/property_tax_add_action.png)
 
