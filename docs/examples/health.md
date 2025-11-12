@@ -19,7 +19,7 @@ Enter your email and password and complete sign in.
 
 You will be redirected to the main dashboard. In the bottom left corner click on "New Category".
 
-![](../../assets/images/examples/health/add_new_category.jpg)
+![](../../assets/images/examples/health/add_new_category.png)
 
 Add the New Category and name it “my health”, you can add your own birthday (if you want). Click on New Action. Let’s add the following actions:
 
