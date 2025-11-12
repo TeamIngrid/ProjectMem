@@ -17,7 +17,7 @@ You will be redirected to the main dashboard. In the bottom left corner click on
 
 Let's add a new category from the dashboard:
 
-![](../../assets/images/examples/vehicle/add_new_category.jpg)
+![](../../assets/images/examples/vehicle/add_new_category.png)
 
 Give it a name (for example: "my favorite car"), click "work units", select "miles" from the dropdown and select origination date:
 
