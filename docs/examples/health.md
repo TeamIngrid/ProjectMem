@@ -33,7 +33,7 @@ Click “done” and new action is happy to report that some additional informat
 
 ![](../../assets/images/examples/health/insufficient_info.jpg)
 
-It needs to know when was the last time you had checkups. Click red link, set the date of the last time you did checkup and click “save”. 
+It needs to know when was the last time you had checkups. Click the red link, set the date of the last time you did checkup and click “save”. 
 Repeat this step two more times, and now you can track when was the last time you did checkups and/or when you should schedule (or expect) to have the next one.
 
 ![](../../assets/images/examples/health/dashboard.png)
