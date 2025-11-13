@@ -64,7 +64,7 @@ Let’s say few days have gone by, we can add new record with the current mileag
 
 ![](../../assets/images/examples/vehicle/add_quick_record.png)
 
-Type "current miles" into name field and add current miles into miles field (let’s say you are at 110 miles), click save and you will be dropped back to the dashboard with the recalculated schedule:
+Type "current miles" into name field and add current miles into miles field (let’s say you are at 110 miles). Click save, next you will be dropped back to the dashboard with the recalculated schedule:
 
 ![](../../assets/images/examples/vehicle/recalculate_schedule.png)
 
