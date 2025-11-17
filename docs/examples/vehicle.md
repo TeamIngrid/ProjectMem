@@ -50,7 +50,7 @@ Now click "save". You will be dropped back to the dashboard, and you will see yo
 
 ![](../../assets/images/examples/vehicle/new_category.png)
 
-Note, there is a warning sign, indicating some missing information - which is normal because there is no current mileage provided for the vehicle. Let's add that information, click on the warning sign and fill out the current miles (for example the vehicle’s done 100 miles this far):
+Note, there is a warning sign, indicating some missing information - which is normal because there is no current mileage provided for the vehicle. Let's add that information, click on the warning sign and fill out the current miles (for example the vehicle’s done 200 miles this far):
 
 ![](../../assets/images/examples/vehicle/add_current_miles.png)
 
@@ -58,7 +58,7 @@ Click "save" and you will be returned to the dashboard. Now there is no more mis
 
 ![](../../assets/images/examples/vehicle/no_missing_information.png)
 
-**Please note:** at the current pace of 100 miles per day, you will hit you first oil change in about 2 months. But perhaps you don't drive 100 miles per day and only done 100 miles this one time. No problem, just keep adding events to the item, Memseer will recalculate your daily average as more information arrives.
+**Please note:** at the current pace of 200 miles per day, you will hit you first oil change in less than one month. But perhaps you don't drive 200 miles per day and only done 200 miles this one time. No problem, just keep adding events to the item, Memseer will recalculate your daily average as more information arrives.
 
 Let’s say few days have gone by, we can add new record with the current mileage, let's click on "+ New"
 
